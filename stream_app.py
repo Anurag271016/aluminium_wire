@@ -7,7 +7,7 @@ import numpy as np
 st.set_page_config(page_title="Aluminium Wire Rod Predictor", layout="centered")
 
 # Title
-st.title("🔧 Aluminium Wire Rod Property Predictor")
+st.title("Aluminium Wire Rod Property Predictor")
 st.markdown("""
 Predict *UTS, **Elongation, and **Conductivity* based on process parameters:
 - Casting Temperature (°C)

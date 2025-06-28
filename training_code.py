@@ -11,7 +11,7 @@ import seaborn as sns
 import xgboost as xgb
 
 # Load data
-file_path = 'C:\\Users\\91636\\OneDrive\\Desktop\\aluminium_wire\\wire_rod_data.csv'
+file_path = 'dataset.csv'
 df = pd.read_csv(file_path)
 
 # EDA Section
